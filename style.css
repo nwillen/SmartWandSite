@@ -1,0 +1,65 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#title {
+    font-size: 70px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#nav_menu {
+    border-top: 1px solid black;
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+.nav_button {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 10px;
+    border-radius: 5px;
+}
+
+.nav_button:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+.p_container {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    padding-left:30px
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+  
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+  
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+  
+a:active {
+    text-decoration: none;
+    color: black;
+}
